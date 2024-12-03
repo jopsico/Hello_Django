@@ -38,5 +38,7 @@ Para configurar o ambiente virtual e rodar o servidor localmente, siga as etapas
    ```
 
 6. Acesse o projeto no navegador:
-
+ 
+```bash
    Abra o navegador e acesse [http://127.0.0.1:8000](http://127.0.0.1:8000).
+```
