@@ -12,7 +12,7 @@ Para configurar o ambiente virtual e rodar o servidor localmente, siga as etapas
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/cauamapurunga/hello_app.git
+   https://github.com/jopsico/Hello_Django.git
    ```
 
 2. Ative o ambiente virtual:
